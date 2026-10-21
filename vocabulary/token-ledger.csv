@@ -1,0 +1,108 @@
+language,token,normalized,first_lesson,source_term
+ru,Приве́т,привет,01-greetings,Приве́т
+ru,Здра́вствуйте,здравствуите,01-greetings,Здра́вствуйте
+ru,До́брое,доброе,01-greetings,До́брое у́тро
+ru,у́тро,утро,01-greetings,До́брое у́тро
+ru,До́брый,добрыи,01-greetings,До́брый день
+ru,день,день,01-greetings,До́брый день
+ru,ве́чер,вечер,01-greetings,До́брый ве́чер
+ru,До,до,01-greetings,До свида́ния
+ru,свида́ния,свидания,01-greetings,До свида́ния
+ar,مَرْحَبًا,مرحبا,01-greetings,مَرْحَبًا
+ar,أَهْلًا,اهلا,01-greetings,أَهْلًا وَسَهْلًا
+ar,وَسَهْلًا,وسهلا,01-greetings,أَهْلًا وَسَهْلًا
+ar,صَبَاحُ,صباح,01-greetings,صَبَاحُ الْخَيْر
+ar,الْخَيْر,خير,01-greetings,صَبَاحُ الْخَيْر
+ar,مَسَاءُ,مساء,01-greetings,مَسَاءُ الْخَيْر
+ar,مَعَ,مع,01-greetings,مَعَ السَّلَامَة
+ar,السَّلَامَة,سلامة,01-greetings,مَعَ السَّلَامَة
+ru,Как,как,02-introductions,Как вас зовут?
+ru,вас,вас,02-introductions,Как вас зовут?
+ru,зовут,зовут,02-introductions,Как вас зовут?
+ru,Меня,меня,02-introductions,Меня зовут
+ru,тебя,тебя,02-introductions,Как тебя зовут?
+ru,Очень,очень,02-introductions,Очень приятно
+ru,приятно,приятно,02-introductions,Очень приятно
+ru,дела,дела,02-introductions,Как дела?
+ru,Хорошо,хорошо,بخير شكرا,Хорошо
+ru,А,а,02-introductions,А у вас?
+ru,у,у,02-introductions,А у вас?
+ru,Тоже,тоже,02-introductions,Тоже хорошо
+ar,مَا,ما,02-introductions,مَا اسْمُكَ؟
+ar,اسْمُكَ,اسمك,02-introductions,مَا اسْمُكَ؟
+ar,اِسْمِي,اسمي,02-introductions,اِسْمِي
+ar,تَشَرَّفْتُ,تشرفت,02-introductions,تَشَرَّفْتُ بِمَعْرِفَتِكَ
+ar,بِمَعْرِفَتِكَ,بمعرفتك,02-introductions,تَشَرَّفْتُ بِمَعْرِفَتِكَ
+ar,كَيْفَ,كيف,02-introductions,كَيْفَ حَالُكَ؟
+ar,حَالُكَ,حالك,02-introductions,كَيْفَ حَالُكَ؟
+ar,أَنَا,انا,02-introductions,أَنَا بِخَيْرٍ، شُكْرًا
+ar,بِخَيْرٍ,بخير,02-introductions,أَنَا بِخَيْرٍ، شُكْرًا
+ar,شُكْرًا,شكرا,02-introductions,أَنَا بِخَيْرٍ، شُكْرًا
+ar,وَأَنْتَ,وانت,02-introductions,وَأَنْتَ؟
+ru,Сколько,сколько,03-numbers-age,Сколько?
+ru,лет,лет,03-numbers-age,лет
+ru,один,один,03-numbers-age,один
+ru,два,два,03-numbers-age,два
+ru,три,три,03-numbers-age,три
+ru,четыре,четыре,03-numbers-age,четыре
+ru,пять,пять,03-numbers-age,пять
+ru,десять,десять,03-numbers-age,десять
+ru,двадцать,двадцать,03-numbers-age,двадцать
+ru,тридцать,тридцать,03-numbers-age,тридцать
+ar,عُمْر,عمر,03-numbers-age,عُمْر
+ar,سَنَة,سنة,03-numbers-age,سَنَة
+ar,سِتَّة,ستة,03-numbers-age,سِتَّة
+ar,سَبْعَة,سبعة,03-numbers-age,سَبْعَة
+ar,ثَمَانِيَة,ثمانية,03-numbers-age,ثَمَانِيَة
+ar,تِسْعَة,تسعة,03-numbers-age,تِسْعَة
+ar,عَشَرَة,عشرة,03-numbers-age,عَشَرَة
+ar,أَرْبَعُون,اربعون,03-numbers-age,أَرْبَعُون
+ru,семья,семья,04-family,семья
+ru,мама,мама,04-family,мама
+ru,папа,папа,04-family,папа
+ru,брат,брат,04-family,брат
+ru,сестра,сестра,04-family,сестра
+ru,родители,родители,04-family,родители
+ru,сын,сын,04-family,сын
+ru,дочь,дочь,04-family,дочь
+ar,عَائِلَة,عايلة,04-family,عَائِلَة
+ar,أُمّ,ام,04-family,أُمّ
+ar,أَب,اب,04-family,أَب
+ar,أَخ,اخ,04-family,أَخ
+ar,أُخْت,اخت,04-family,أُخْت
+ar,وَالِدَان,والدان,04-family,وَالِدَان
+ar,اِبْن,ابن,04-family,اِبْن
+ar,اِبْنَة,ابنة,04-family,اِبْنَة
+ru,вода,вода,05-food-cafe,вода
+ru,кофе,кофе,05-food-cafe,кофе
+ru,чай,чаи,05-food-cafe,чай
+ru,хлеб,хлеб,05-food-cafe,хлеб
+ru,меню,меню,05-food-cafe,меню
+ru,счёт,счет,05-food-cafe,счёт
+ru,сахар,сахар,05-food-cafe,сахар
+ru,молоко,молоко,05-food-cafe,молоко
+ar,مَاء,ماء,05-food-cafe,مَاء
+ar,قَهْوَة,قهوة,05-food-cafe,قَهْوَة
+ar,شَاي,شاي,05-food-cafe,شَاي
+ar,خُبْز,خبز,05-food-cafe,خُبْز
+ar,قَائِمَة,قايمة,05-food-cafe,قَائِمَة الطَّعَام
+ar,الطَّعَام,طعام,05-food-cafe,قَائِمَة الطَّعَام
+ar,حِسَاب,حساب,05-food-cafe,حِسَاب
+ar,سُكَّر,سكر,05-food-cafe,سُكَّر
+ar,حَلِيب,حليب,05-food-cafe,حَلِيب
+ru,где,где,06-directions-transport,где
+ru,улица,улица,06-directions-transport,улица
+ru,метро,метро,06-directions-transport,метро
+ru,автобус,автобус,06-directions-transport,автобус
+ru,остановка,остановка,06-directions-transport,остановка
+ru,направо,направо,06-directions-transport,направо
+ru,налево,налево,06-directions-transport,налево
+ru,прямо,прямо,06-directions-transport,прямо
+ar,أَيْنَ,اين,06-directions-transport,أَيْنَ
+ar,شَارِع,شارع,06-directions-transport,شَارِع
+ar,مِتْرُو,مترو,06-directions-transport,مِتْرُو
+ar,حَافِلَة,حافلة,06-directions-transport,حَافِلَة
+ar,مَوْقِف,موقف,06-directions-transport,مَوْقِف
+ar,يَمِين,يمين,06-directions-transport,يَمِين
+ar,يَسَار,يسار,06-directions-transport,يَسَار
+ar,مُبَاشَرَةً,مباشرة,06-directions-transport,مُبَاشَرَةً
