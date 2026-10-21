@@ -91,3 +91,6 @@ ar,مَوْقِف,мавкиф,остановка,06-directions-transport,new,ا
 ar,يَمِين,ямин,направо / правая сторона,06-directions-transport,new,اتجاه
 ar,يَسَار,ясар,налево / левая сторона,06-directions-transport,new,اتجاه
 ar,مُبَاشَرَةً,мубашаратан,прямо,06-directions-transport,new,اتجاه
+ar,عِشْرُون,ишрун,двадцать,03-numbers-age,new,عدد
+ar,خَمْسَة,хамса,пять,03-numbers-age,new,عدد
+ar,ثَلَاثُون,салясун,тридцать,03-numbers-age,new,عدد
