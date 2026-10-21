@@ -25,3 +25,69 @@ ar,تَشَرَّفْتُ بِمَعْرِفَتِكَ,ташаррафту би
 ar,كَيْفَ حَالُكَ؟,кайфа халюка,Как дела?,02-introductions,new,للمذكر؛ للمؤنث كيف حالكِ
 ar,أَنَا بِخَيْرٍ، شُكْرًا,ана бихайрин шукран,Хорошо спасибо,02-introductions,new,إجابة مهذبة
 ar,وَأَنْتَ؟,ва анта,А у вас? / А у тебя?,02-introductions,new,للمذكر؛ للمؤنث وأنتِ
+ru,Сколько?,سكولكا,كم؟,03-numbers-age,new,للسؤال عن العدد
+ru,лет,ليت,سنة / سنوات مع العمر,03-numbers-age,new,تعبير العمر
+ru,один,أدين,واحد,03-numbers-age,new,عدد
+ru,два,دڤا,اثنان,03-numbers-age,new,عدد
+ru,три,تري,ثلاثة,03-numbers-age,new,عدد
+ru,четыре,تشيتيري,أربعة,03-numbers-age,new,عدد
+ru,пять,پيات,خمسة,03-numbers-age,new,عدد
+ru,десять,ديسيت,عشرة,03-numbers-age,new,عدد
+ru,двадцать,دڤاتسات,عشرون,03-numbers-age,new,عدد
+ru,тридцать,تريتسات,ثلاثون,03-numbers-age,new,عدد
+ar,عُمْر,умр,возраст,03-numbers-age,new,اسم
+ar,سَنَة,сана,год,03-numbers-age,new,اسم
+ar,سِتَّة,ситта,шесть,03-numbers-age,new,عدد
+ar,سَبْعَة,саб'а,семь,03-numbers-age,new,عدد
+ar,ثَمَانِيَة,самания,восемь,03-numbers-age,new,عدد
+ar,تِسْعَة,тис'а,девять,03-numbers-age,new,عدد
+ar,عَشَرَة,ашара,десять,03-numbers-age,new,عدد
+ar,أَرْبَعُون,арба'ун,сорок,03-numbers-age,new,عدد
+ru,семья,سيميا,عائلة,04-family,new,اسم
+ru,мама,ماما,أم,04-family,new,اسم عائلي شائع
+ru,папа,پاپا,أب,04-family,new,اسم عائلي شائع
+ru,брат,برات,أخ,04-family,new,اسم
+ru,сестра,سيسترا,أخت,04-family,new,اسم
+ru,родители,راديتيلي,الوالدان,04-family,new,جمع
+ru,сын,سين,ابن,04-family,new,اسم
+ru,дочь,دوتش,ابنة,04-family,new,اسم
+ar,عَائِلَة,а'иля,семья,04-family,new,اسم
+ar,أُمّ,умм,мать,04-family,new,اسم
+ar,أَب,аб,отец,04-family,new,اسم
+ar,أَخ,ах,брат,04-family,new,اسم
+ar,أُخْت,ухт,сестра,04-family,new,اسم
+ar,وَالِدَان,валидан,родители,04-family,new,اسم مثنى
+ar,اِبْن,ибн,сын,04-family,new,اسم
+ar,اِبْنَة,ибна,дочь,04-family,new,اسم
+ru,вода,ڤادا,ماء,05-food-cafe,new,اسم
+ru,кофе,كوڤي,قهوة,05-food-cafe,new,اسم
+ru,чай,تشاي,شاي,05-food-cafe,new,اسم
+ru,хлеб,خليب,خبز,05-food-cafe,new,اسم
+ru,меню,مينيو,قائمة الطعام,05-food-cafe,new,اسم
+ru,счёт,شوت,الحساب,05-food-cafe,new,في المقهى
+ru,сахар,ساخار,سكر,05-food-cafe,new,اسم
+ru,молоко,مالاكو,حليب,05-food-cafe,new,اسم
+ar,مَاء,маа,вода,05-food-cafe,new,اسم
+ar,قَهْوَة,кахва,кофе,05-food-cafe,new,اسم
+ar,شَاي,шай,чай,05-food-cafe,new,اسم
+ar,خُبْز,хубз,хлеб,05-food-cafe,new,اسم
+ar,قَائِمَة الطَّعَام,каимат ат-та'ам,меню,05-food-cafe,new,عبارة
+ar,حِسَاب,хисаб,счёт,05-food-cafe,new,اسم
+ar,سُكَّر,суккар,сахар,05-food-cafe,new,اسم
+ar,حَلِيب,халиб,молоко,05-food-cafe,new,اسم
+ru,где,گدييه,أين,06-directions-transport,new,للسؤال عن المكان
+ru,улица,أوليتسا,شارع,06-directions-transport,new,اسم
+ru,метро,ميترو,مترو الأنفاق,06-directions-transport,new,اسم
+ru,автобус,أوتوبيس,حافلة,06-directions-transport,new,اسم
+ru,остановка,أستانوفكا,موقف / محطة,06-directions-transport,new,اسم
+ru,направо,ناپراڤا,إلى اليمين,06-directions-transport,new,اتجاه
+ru,налево,ناليڤا,إلى اليسار,06-directions-transport,new,اتجاه
+ru,прямо,پرياما,مباشرة / إلى الأمام,06-directions-transport,new,اتجاه
+ar,أَيْنَ,айна,где,06-directions-transport,new,أداة سؤال
+ar,شَارِع,шари',улица,06-directions-transport,new,اسم
+ar,مِتْرُو,метро,метро,06-directions-transport,new,اسم
+ar,حَافِلَة,хафиля,автобус,06-directions-transport,new,اسم
+ar,مَوْقِف,мавкиф,остановка,06-directions-transport,new,اسم
+ar,يَمِين,ямин,направо / правая сторона,06-directions-transport,new,اتجاه
+ar,يَسَار,ясар,налево / левая сторона,06-directions-transport,new,اتجاه
+ar,مُبَاشَرَةً,мубашаратан,прямо,06-directions-transport,new,اتجاه
