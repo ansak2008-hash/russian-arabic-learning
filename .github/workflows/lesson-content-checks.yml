@@ -1,0 +1,28 @@
+name: Lesson content checks
+
+on:
+  push:
+    paths:
+      - "lessons/**"
+      - "vocabulary/**"
+      - "scripts/check_vocabulary.py"
+      - ".github/workflows/lesson-content-checks.yml"
+  pull_request:
+    paths:
+      - "lessons/**"
+      - "vocabulary/**"
+      - "scripts/check_vocabulary.py"
+      - ".github/workflows/lesson-content-checks.yml"
+
+jobs:
+  vocabulary-duplicates:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Check repeated vocabulary
+        run: python scripts/check_vocabulary.py
